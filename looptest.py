@@ -1,5 +1,5 @@
 # PACK 5
-PACKAGE5 = 'sdlad, asdad'
+PACKAGE5 = 'sdlad, asdad, sad'
 
 if PACKAGE5:
     ### PACKAGE CONST############################################
